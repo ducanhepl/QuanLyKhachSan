@@ -1,0 +1,17 @@
+D:\project\lamtrenVS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\project\lamtrenVS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\project\lamtrenVS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\project\lamtrenVS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+D:\project\lamtrenVS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Login.resources
+D:\project\lamtrenVS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\project\lamtrenVS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+D:\project\lamtrenVS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\project\lamtrenVS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\project\lamtrenVS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.HotelManager.resources
+D:\project\lamtrenVS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.RoomManager.resources
+D:\project\lamtrenVS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TableManager.resources
+D:\project\lamtrenVS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Admin.resources
+D:\project\backup\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\project\backup\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\project\backup\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\project\lamtrenVS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.AccountProfile.resources
